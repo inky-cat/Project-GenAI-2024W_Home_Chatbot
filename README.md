@@ -27,6 +27,7 @@ The main and potential objectives of the project with an emphasis on reducing â€
 
 For the project I tried making a custom chatbot[^3] designed to provide context-aware knowledge about the rock band Eagles and their texts.
 [^3]: Guide, provided by Streamlit community, was used to create the bot: https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/ Accessed 1 Jan. 2025.
+
 **User Interface: Streamlit**
 
 The interface of the chatbot is made with Streamlit, a Python framework for interactive web applications. Streamlit provides a chat-based interface where users can input queries and receive responses in real-time. 
