@@ -1,0 +1,8 @@
+streamlit
+openai
+llama-index
+llama-index-llms-openai
+llama-index-llms-deepseek
+llama-index-embeddings-huggingface
+nltk
+pypdf
