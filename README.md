@@ -58,6 +58,7 @@ Still, in general, a custom chat bot seems like a good additional tool or home a
 * Gonzalez, Leo. Corpus-Based Studies on Hip-Hop Lyrics. Doctoral dissertation, Oregon State University, 2023. Available at: https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/0r967c68d
 * Labadze, L., Grigolia, M. & Machaidze, L. Role of AI chatbots in education: systematic literature review. Int J Educ Technol High Educ 20, 56 (2023). Available at: https://doi.org/10.1186/s41239-023-00426-1. 
 * Walters, Holly. A Corpus Linguistic Analysis of Lyrics and Suicide. Master's thesis, Oregon State University, 2023. Available at: https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/0r967c68d
+* The Bumpkin. (n.d.). 94 Eagles album tracks with Spotify data [Dataset]. Kaggle. https://www.kaggle.com/datasets/thebumpkin/94-eagles-album-tracks-with-spotify-data. Accessed 1 Jan. 2025.
 
 
 
