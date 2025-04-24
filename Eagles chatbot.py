@@ -5,7 +5,7 @@ from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 st.set_page_config(page_title="Eagles chat-bot, powered by LlamaIndex", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
-openai.api_key = st.secrets.openai_key # There was a DeepSeek API key
+openai.api_key = st.secrets.openai_key # There is a place for a DeepSeek API key
 st.title("Eagles chat-bot, powered by LlamaIndex 🎸🦙")
 
 if "messages" not in st.session_state.keys():
